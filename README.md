@@ -47,9 +47,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angellusj&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ângela Aquino GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angeIbyte&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ângela Aquino GitHub Stats" />
     &nbsp;
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angellusj&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeIbyte&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
     <img align="left"width=16% src="https://github.com/user-attachments/assets/6775e907-c644-419c-a703-f513e434d259"/>
     <img align="right"width=14% src="https://github.com/user-attachments/assets/9ca844fe-243e-4884-a50e-8f185766021e"/>
